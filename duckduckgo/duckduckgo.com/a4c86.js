@@ -1,0 +1,1 @@
+DDG.duckbar.failed('nlp_fathead');DDG.duckbar.add_array([]);

@@ -1,0 +1,77 @@
+HTTrack3.48-24 launched on Thu, 24 Nov 2016 05:02:24 at https://duckduckgo.com
+(winhttrack https://duckduckgo.com -O "/root/Desktop/duckduckgo" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:05:22	Warning: 	Link https://duckduckgo.com/assets/logo_header_alt.v107.lg.retina.png not scanned (follow robots meta tag)
+05:05:22	Warning: 	Link https://duckduckgo.com/assets/logos/initech/logo_homepage_small.retina.png not scanned (follow robots meta tag)
+05:05:24	Warning: 	Link https://duckduckgo.com/assets/settings/icon_cloudsave.v100.retina.png not scanned (follow robots meta tag)
+05:05:24	Warning: 	Link https://duckduckgo.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ not scanned (follow robots meta tag)
+05:05:24	Warning: 	Link https://duckduckgo.com/GET not scanned (follow robots meta tag)
+05:05:27	Warning: 	Link https://duckduckgo.com/?q=thailand+beach+images not scanned (follow robots meta tag)
+05:05:29	Warning: 	Link https://duckduckgo.com/?q=obama+news not scanned (follow robots meta tag)
+05:05:29	Warning: 	Link https://duckduckgo.com/?q=pizza+near+me not scanned (follow robots meta tag)
+05:05:29	Warning: 	Link https://duckduckgo.com/?q=daft+punk+soundcloud not scanned (follow robots meta tag)
+05:05:29	Warning: 	Link https://duckduckgo.com/?q=weather not scanned (follow robots meta tag)
+05:05:29	Warning: 	Link https://duckduckgo.com/?q=salmon+recipes not scanned (follow robots meta tag)
+05:05:29	Warning: 	Link https://duckduckgo.com/?q=stopwatch not scanned (follow robots meta tag)
+05:05:29	Warning: 	Link https://duckduckgo.com/?q=movies+with+Chuck+Norris not scanned (follow robots meta tag)
+05:05:29	Warning: 	Link https://duckduckgo.com/?q=!amazon+shoes not scanned (follow robots meta tag)
+05:05:29	Warning: 	Link https://duckduckgo.com/?q=!a+shoes not scanned (follow robots meta tag)
+05:05:29	Warning: 	Link https://duckduckgo.com/?q=!imdb+rushmore not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=tilt+shift+images not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=gopro+videos not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=jimmy+fallon+videos not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=weather+in+encinitas not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=weather+in+paris not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=tilapia+recipes not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=sorbet+recipes not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=thai+food+in+San+Francisco not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=bars+near+me not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=katz's+deli+new+york not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=orange not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=8oz+to+grams not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=define+superlative not scanned (follow robots meta tag)
+05:05:30	Warning: 	Link https://duckduckgo.com/?q=people+in+space not scanned (follow robots meta tag)
+05:05:37	Warning: 	Link https://duckduckgo.com/assets/logos/resetthenet/logo_homepage.normal.v105.svg not scanned (follow robots meta tag)
+05:05:37	Warning: 	Link https://duckduckgo.com/assets/logos/resetthenet/logo_homepage.alt.v105.svg not scanned (follow robots meta tag)
+05:05:37	Warning: 	Link https://duckduckgo.com/assets/logos/resetthenet/logo_homepage_small.normal.v105.svg not scanned (follow robots meta tag)
+05:05:37	Warning: 	Link https://duckduckgo.com/assets/logos/resetthenet/logo_homepage_small.alt.v105.svg not scanned (follow robots meta tag)
+05:05:37	Warning: 	Link https://duckduckgo.com/assets/logos/resetthenet/logo_homepage_mobile.normal.v105.svg not scanned (follow robots meta tag)
+05:05:37	Warning: 	Link https://duckduckgo.com/assets/logos/resetthenet/logo_homepage_mobile.alt.v105.svg not scanned (follow robots meta tag)
+05:05:39	Warning: 	Link https://duckduckgo.com/sanitizer-bundle.js not scanned (follow robots meta tag)
+05:05:41	Warning: 	Link https://duckduckgo.com/User_agent not scanned (follow robots meta tag)
+05:05:41	Warning: 	Link https://duckduckgo.com/IP_Address not scanned (follow robots meta tag)
+05:05:43	Warning: 	Link https://duckduckgo.com/?q=POST+request not scanned (follow robots meta tag)
+05:05:43	Warning: 	Link https://duckduckgo.com/?q=!proxy+breadpig.com not scanned (follow robots meta tag)
+05:05:49	Warning: 	Link https://duckduckgo.com/?q=Gabriel+Weinberg not scanned (follow robots meta tag)
+05:05:49	Warning: 	Moved Permanently for https://duckduckgo.com/about/
+05:05:49	Warning: 	File has moved from https://duckduckgo.com/about/ to https://duckduckgo.com/about
+05:05:49	Warning: 	Moved Permanently for https://duckduckgo.com/press/
+05:05:49	Warning: 	File has moved from https://duckduckgo.com/press/ to https://dukgo.com/help/en_US/company/press
+05:05:49	Warning: 	Moved Permanently for https://duckduckgo.com/privacy/
+05:05:49	Warning: 	File has moved from https://duckduckgo.com/privacy/ to https://duckduckgo.com/privacy
+05:05:53	Warning: 	Link https://duckduckgo.com/html/?q=mustache.js not scanned (follow robots meta tag)
+05:05:57	Warning: 	Link https://duckduckgo.com/html/?q=HTTP%20referrer not scanned (follow robots meta tag)
+05:05:59	Warning: 	Link https://duckduckgo.com/html/?q=HTTP%20Secure not scanned (follow robots meta tag)
+05:06:02	Warning: 	Link https://duckduckgo.com/html/?q=HTTP%20cookie not scanned (follow robots meta tag)
+05:06:05	Warning: 	Link https://duckduckgo.com/html/?q=Electronic%20Frontier%20Foundation not scanned (follow robots meta tag)
+05:06:05	Warning: 	Link https://duckduckgo.com/?q=Electronic%20Frontier%20Foundation+site:eff.org not scanned (follow robots meta tag)
+05:06:12	Warning: 	Link https://duckduckgo.com/locales/en_CA/LC_MESSAGES/duckduckgo-duckduckgo+sprintf+gettext+locale-simple.20141219.103601.js not scanned (follow robots meta tag)
+05:06:12	Warning: 	Link https://duckduckgo.com/html/?q=Free%20computer%20libraries not scanned (follow robots meta tag)
+05:06:12	Warning: 	Link https://duckduckgo.com/html/?q=URI%20schemes not scanned (follow robots meta tag)
+05:06:13	Warning: 	Link https://duckduckgo.com/html/?q=Cryptographic%20protocols not scanned (follow robots meta tag)
+05:06:14	Warning: 	Link https://duckduckgo.com/html/?q=Computer%20access%20control not scanned (follow robots meta tag)
+05:06:16	Warning: 	Link https://duckduckgo.com/?q=color+codes not scanned (follow robots meta tag)
+05:06:19	Warning: 	Link https://duckduckgo.com/html/?q=web not scanned (follow robots meta tag)
+05:06:21	Warning: 	Link https://duckduckgo.com/yummly.com.ico not scanned (follow robots meta tag)
+05:06:21	Warning: 	Link https://duckduckgo.com/html/?q=Literate%20programming not scanned (follow robots meta tag)
+05:06:24	Warning: 	Link https://duckduckgo.com/html/?q=moment.js not scanned (follow robots meta tag)
+05:06:24	Warning: 	Link https://duckduckgo.com/?q=moment.js+site:momentjs.com not scanned (follow robots meta tag)
+05:06:24	Warning: 	Link https://duckduckgo.com/html/?q=Software%20using%20the%20MIT%20license not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.48-24 mirror complete in 4 minutes 1 seconds : 392 links scanned, 388 files written (10425234 bytes overall) [5169659 bytes received at 21450 bytes/sec], 7621798 bytes transferred using HTTP compression in 236 files, ratio 29%, 12.8 requests per connection
+(No errors, 66 warnings, 0 messages)
