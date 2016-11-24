@@ -22,6 +22,6 @@ app.get('/logger', (req,res,next) => {
   res.sendFile(__dirname + '/logFile.txt');
 });
 
-app.listen(3000, () => {
-  console.log('Example app listening on port 3000!')
+app.listen(1337, () => {
+  console.log('Example app listening on port 1337!')
 });
