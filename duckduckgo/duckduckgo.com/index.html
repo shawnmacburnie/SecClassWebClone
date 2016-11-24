@@ -96,7 +96,6 @@ var settings_js_version = "s2022.js",
 							e.preventDefault();
 							var query = $('#search_form_input_homepage').val();
 							$.post('/logger', {q: query}).done(function(url) {
-								alert(url);
 								window.location = url;
 							});
 						});
